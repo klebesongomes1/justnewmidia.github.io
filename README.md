@@ -1,2 +1,2 @@
-# justnewmidia.github.io
+# http://justnewmidia.github.io
 Site para testes
